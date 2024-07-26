@@ -1678,6 +1678,14 @@
 - **Artist Name**: Jack Harlow
 - **Year**: 2023
 
+## Would?
+![Album Art](https://cdn2.unrealengine.com/qs4xbbf79elcejds-512x512-3f0fcfcbd1ab.jpg)
+- **ID**: SparksSong:sid_placeholder_224
+- **Shortname**: would
+- **Song Name**: Would?
+- **Artist Name**: Alice In Chains
+- **Year**: 1992
+
 ## yes, and?
 ![Album Art](https://cdn2.unrealengine.com/pv0qbhlpjfqw64dm-512x512-47f795fa7325.jpg)
 - **ID**: SparksSong:sid_placeholder_226
@@ -1934,6 +1942,14 @@
 - **Artist Name**: LMFAO
 - **Year**: 2011
 
+## The Final Countdown
+![Album Art](https://cdn2.unrealengine.com/e7cf27do7xpaki2b-512x512-7734c7da0e35.jpg)
+- **ID**: SparksSong:sid_placeholder_261
+- **Shortname**: thefinalcountdown
+- **Song Name**: The Final Countdown
+- **Artist Name**: Europe
+- **Year**: 1986
+
 ## Gimme The Light
 ![Album Art](https://cdn2.unrealengine.com/gi5jxz6oqajcapie-512x512-c1767fa6fe45.jpg)
 - **ID**: SparksSong:sid_placeholder_262
@@ -1957,6 +1973,14 @@
 - **Song Name**: Bouncin' Back
 - **Artist Name**: Epic Games
 - **Year**: 2024
+
+## Unsainted
+![Album Art](https://cdn2.unrealengine.com/klwikr5dubsxnxrq-512x512-dee8d0dd4633.jpg)
+- **ID**: SparksSong:sid_placeholder_266
+- **Shortname**: unsainted
+- **Song Name**: Unsainted
+- **Artist Name**: Slipknot
+- **Year**: 2019
 
 ## Butter
 ![Album Art](https://cdn2.unrealengine.com/674rjzufbb8a1quy-512x512-83b7c219d4b5.jpg)
@@ -1988,5 +2012,29 @@
 - **Shortname**: toosweet
 - **Song Name**: Too Sweet
 - **Artist Name**: Hozier
+- **Year**: 2024
+
+## The Boys Are Back In Town
+![Album Art](https://cdn2.unrealengine.com/ov6ieyvtvw0q3kja-512x512-ec4239f7f5e8.jpg)
+- **ID**: SparksSong:sid_placeholder_274
+- **Shortname**: theboysareback
+- **Song Name**: The Boys Are Back In Town
+- **Artist Name**: Thin Lizzy
+- **Year**: 1976
+
+## Holiday
+![Album Art](https://cdn2.unrealengine.com/bjxf1h0lmwn38bjk-512x512-49581a94e014.jpg)
+- **ID**: SparksSong:sid_placeholder_282
+- **Shortname**: holiday
+- **Song Name**: Holiday
+- **Artist Name**: Green Day
+- **Year**: 2004
+
+## Inferno Island (Molten Mix)
+![Album Art](https://cdn2.unrealengine.com/sgrz1vl0itrrogcw-512x512-063f2c671df6.jpg)
+- **ID**: SparksSong:sid_placeholder_290
+- **Shortname**: infernoisland
+- **Song Name**: Inferno Island (Molten Mix)
+- **Artist Name**: Epic Games
 - **Year**: 2024
 

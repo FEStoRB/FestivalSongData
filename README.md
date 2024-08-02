@@ -1790,6 +1790,30 @@
 - **Artist Name**: Metallica
 - **Year**: 1983
 
+## Battery
+![Album Art](https://cdn2.unrealengine.com/g6g91cdjohbwfqac-512x512-3a770b5f6161.jpg)
+- **ID**: SparksSong:sid_placeholder_239
+- **Shortname**: battery
+- **Song Name**: Battery
+- **Artist Name**: Metallica
+- **Year**: 1986
+
+## Fade to Black
+![Album Art](https://cdn2.unrealengine.com/ic3zit5iz7opnhrw-512x512-8186073b0a55.jpg)
+- **ID**: SparksSong:sid_placeholder_240
+- **Shortname**: fadetoblack
+- **Song Name**: Fade to Black
+- **Artist Name**: Metallica
+- **Year**: 1984
+
+## Sad But True
+![Album Art](https://cdn2.unrealengine.com/axabzkzv92vf8euo-512x512-8e5c46c64d4c.jpg)
+- **ID**: SparksSong:sid_placeholder_241
+- **Shortname**: sadbuttrue
+- **Song Name**: Sad But True
+- **Artist Name**: Metallica
+- **Year**: 1991
+
 ## Savage
 ![Album Art](https://cdn2.unrealengine.com/2xtzfbodqpk2i7ma-512x512-29b5a2cf19d8.jpg)
 - **ID**: SparksSong:sid_placeholder_242

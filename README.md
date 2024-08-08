@@ -1355,7 +1355,7 @@
 - **Year**: 2020
 
 ## Change
-![Album Art](https://cdn2.unrealengine.com/9j3le7yl9ck6te48-512x512-efb264632d4c.jpg)
+![Album Art](https://cdn2.unrealengine.com/im23fifqs1nz8zvh-512x512-96936e749c87.jpg)
 - **ID**: SparksSong:sid_placeholder_181
 - **Shortname**: change
 - **Song Name**: Change
@@ -1481,6 +1481,14 @@
 - **Song Name**: Stronger (What Doesn't Kill You)
 - **Artist Name**: Kelly Clarkson
 - **Year**: 2011
+
+## Everybody Falls (Chill Mix)
+![Album Art](https://cdn2.unrealengine.com/ejxurqq0a50qctea-512x512-f4d1e9ab8623.jpg)
+- **ID**: SparksSong:sid_placeholder_197
+- **Shortname**: fallguys
+- **Song Name**: Everybody Falls (Chill Mix)
+- **Artist Name**: Epic Games
+- **Year**: 2024
 
 ## Cantina Band
 ![Album Art](https://cdn2.unrealengine.com/vo7fcgauzexehay1-512x512-b33fdda364d9.jpg)
@@ -2030,6 +2038,30 @@
 - **Artist Name**: NLE Choppa ft. Roddy Ricch
 - **Year**: 2020
 
+## Paradise City
+![Album Art](https://cdn2.unrealengine.com/c4qb3iquma52lxlm-512x512-a0458ae62f2d.jpg)
+- **ID**: SparksSong:sid_placeholder_270
+- **Shortname**: paradisecity
+- **Song Name**: Paradise City
+- **Artist Name**: Guns N' Roses
+- **Year**: 1987
+
+## Sweet Child O' Mine
+![Album Art](https://cdn2.unrealengine.com/rwmy1dk3aqklj6as-512x512-bbd970e5aea5.jpg)
+- **ID**: SparksSong:sid_placeholder_271
+- **Shortname**: sweetchildomine
+- **Song Name**: Sweet Child O' Mine
+- **Artist Name**: Guns N' Roses 
+- **Year**: 1987
+
+## Welcome To The Jungle
+![Album Art](https://cdn2.unrealengine.com/sdg1w0obgx0m9f0h-512x512-568091543e5d.jpg)
+- **ID**: SparksSong:sid_placeholder_272
+- **Shortname**: welcometothejungle
+- **Song Name**: Welcome To The Jungle
+- **Artist Name**: Guns N' Roses
+- **Year**: 1987
+
 ## Too Sweet
 ![Album Art](https://cdn2.unrealengine.com/9985aknkxrjbktwu-512x512-c0e9a80e7148.jpg)
 - **ID**: SparksSong:sid_placeholder_273
@@ -2061,4 +2093,36 @@
 - **Song Name**: Inferno Island (Molten Mix)
 - **Artist Name**: Epic Games
 - **Year**: 2024
+
+## Black Beatles
+![Album Art](https://cdn2.unrealengine.com/heo0pzx0ovwbpmzj-512x512-e38c44fb0d49.jpg)
+- **ID**: SparksSong:sid_placeholder_291
+- **Shortname**: blackbeatles
+- **Song Name**: Black Beatles
+- **Artist Name**: Rae Sremmurd ft. Gucci Mane
+- **Year**: 2016
+
+## Day 'N' Nite
+![Album Art](https://cdn2.unrealengine.com/unslw6fiprz5630h-512x512-c64246ef7b46.jpg)
+- **ID**: SparksSong:sid_placeholder_292
+- **Shortname**: daynnite
+- **Song Name**: Day 'N' Nite
+- **Artist Name**: Kid Cudi
+- **Year**: 2008
+
+## Panda
+![Album Art](https://cdn2.unrealengine.com/mdllyoxljxni0rru-512x512-b0e62cdce531.jpg)
+- **ID**: SparksSong:sid_placeholder_293
+- **Shortname**: panda
+- **Song Name**: Panda
+- **Artist Name**: Desiigner
+- **Year**: 2015
+
+## Ain't No Rest For The Wicked
+![Album Art](https://cdn2.unrealengine.com/m0gjb61r2ita5ylk-512x512-330628506c69.jpg)
+- **ID**: SparksSong:sid_placeholder_296
+- **Shortname**: aintnorestforthewicked
+- **Song Name**: Ain't No Rest For The Wicked
+- **Artist Name**: Cage The Elephant
+- **Year**: 2008
 
